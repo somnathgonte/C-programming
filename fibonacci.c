@@ -3,7 +3,6 @@
 // Output : 0 1 1 2 3 5 8 13
 
 #include <stdio.h>
-
 int main()
 {
     int iNo1 = 0, iNo2 = 1, iNo3, n;
